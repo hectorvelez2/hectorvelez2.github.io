@@ -7,7 +7,7 @@
 }
 
 body {
-	background: url('../img/cover.jpg');
+	background: url('../img/bg.png');
 	background-size: cover;
 	background-attachment: fixed;
 	font-family:'Open Sans',Sans-serif, Arial, Helvetica;
